@@ -1,11 +1,1 @@
-"this is fileA" soke soke --- 
-Certification prerequisites
-To become a Microsoft Certified: DevOps Engineer Expert, you must earn at least one of the following: Microsoft Certified: Azure Administrator Associate, Microsoft Certified: Azure Developer Associate certification.
-
-Microsoft Certified: Azure Administrator Associate
-Option 1: Prerequisite certification
-Azure Administrators implement, manage, and monitor an organization’s Microsoft Azure environment.
-
-Microsoft Certified: Azure Developer Associate
-Option 2: Prerequisite certification
-Azure Developers design, build, test, and maintain cloud applications and services.
+"this is fileA" soke soke --- Version Git
