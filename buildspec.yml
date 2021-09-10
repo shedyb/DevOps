@@ -4,7 +4,7 @@ phases:
 
   install: 
     commands:
-      - golang : latest 
+      - golang -latest 
 
   pre_build: 
     commands:
