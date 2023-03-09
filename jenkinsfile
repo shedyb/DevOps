@@ -29,6 +29,12 @@ pipeline {
                 }
             }
         }
+        stage("Get Approval") {
+            steps {
+                    input "Please approve tp to proceed with deployment"
+                    }
+            
+        }
         stage('Deploy to GKE') {
             steps{
                 sh "sed -i 's/hello:latest/hello:${env.BUILD_ID}/g' deployment.yaml"
