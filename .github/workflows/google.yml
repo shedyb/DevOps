@@ -22,7 +22,7 @@ env:
   GKE_CLUSTER: training    # TODO: update to cluster name
   GKE_ZONE: us-central1-c   # TODO: update to cluster zone
   DEPLOYMENT_NAME: gke-test # TODO: update to deployment name
-  REPOSITORY: DevOps # TODO: update to Artifact Registry docker repository
+  REPOSITORY: test # TODO: update to Artifact Registry docker repository
   IMAGE: nginx
 
 jobs:
